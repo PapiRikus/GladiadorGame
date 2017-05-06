@@ -1,0 +1,110 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Entity.cpp
+Entity.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Entity.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Entity.h
+allegro5/bitmap.h
+-
+Map.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Map.h
+math.h
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Gladiator.cpp
+Gladiator.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Gladiator.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Gladiator.h
+Entity.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Entity.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/List.h
+iostream
+-
+cstdlib
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Map.cpp
+Map.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Map.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Map.h
+iostream
+-
+math.h
+-
+allegro5/bitmap.h
+-
+allegro5/allegro.h
+-
+allegro5/allegro_image.h
+-
+Tiled.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Tiled.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Matrix.h
+iostream
+-
+Sprite.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Sprite.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Sprite.cpp
+Sprite.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Sprite.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Sprite.h
+iostream
+-
+string.h
+-
+allegro5/allegro.h
+-
+allegro5/bitmap.h
+-
+allegro5/allegro_image.h
+-
+List.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/List.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Tiled.cpp
+Tiled.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Tiled.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Tiled.h
+Matrix.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Matrix.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Tower.cpp
+Tower.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Tower.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Tower.h
+Entity.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Entity.h
+
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/main.cpp
+iostream
+-
+allegro5/allegro.h
+-
+allegro5/allegro_font.h
+-
+allegro5/allegro_ttf.h
+-
+allegro5/allegro_image.h
+-
+allegro5/allegro_primitives.h
+-
+Gladiator.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Gladiator.h
+Tower.h
+/home/aaronsolera/Escritorio/Yo Pue/Pruebas/Tower.h
+
