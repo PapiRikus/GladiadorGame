@@ -1,0 +1,220 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Arrow.cpp
+Arrow.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Arrow.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Arrow.h
+Entity.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Entity.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Botones.cpp
+Botones.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Botones.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Botones.h
+allegro5/allegro.h
+-
+allegro5/bitmap.h
+-
+allegro5/allegro_image.h
+-
+gladiador.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/gladiador.h
+iostream
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Entity.cpp
+Entity.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Entity.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Entity.h
+allegro5/bitmap.h
+-
+allegro5/allegro_font.h
+-
+Map.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Map.h
+math.h
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Gladiator.cpp
+Gladiator.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Gladiator.h
+allegro5/allegro_primitives.h
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Gladiator.h
+Entity.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Entity.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/IA.cpp
+IA.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/IA.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/IA.h
+iostream
+-
+gladiador.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/gladiador.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/List.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/ListNode.h
+iostream
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Map.cpp
+Map.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Map.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Map.h
+iostream
+-
+math.h
+-
+allegro5/bitmap.h
+-
+allegro5/allegro.h
+-
+allegro5/allegro_image.h
+-
+Tiled.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Tiled.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Matrix.h
+iostream
+-
+Sprite.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Sprite.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Node.cpp
+Node.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Node.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Node.h
+PList.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/PList.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/PList.h
+ListNode.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/ListNode.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/PathfindingA.cpp
+PathfindingA.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/PathfindingA.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/PathfindingA.h
+iostream
+-
+Node.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Node.h
+cmath
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/SeleccionMJ.cpp
+SeleccionMJ.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/SeleccionMJ.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/SeleccionMJ.h
+allegro5/allegro.h
+-
+allegro5/bitmap.h
+-
+allegro5/allegro_image.h
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Sprite.cpp
+Sprite.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Sprite.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Sprite.h
+iostream
+-
+string.h
+-
+allegro5/allegro.h
+-
+allegro5/bitmap.h
+-
+allegro5/allegro_image.h
+-
+List.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/List.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Tiled.cpp
+Tiled.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Tiled.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Tiled.h
+Matrix.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Matrix.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Tower.cpp
+Tower.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Tower.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Tower.h
+Arrow.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Arrow.h
+Gladiator.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Gladiator.h
+time.h
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/gladiador.cpp
+allegro5/allegro_primitives.h
+-
+gladiador.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/gladiador.h
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/gladiador.h
+allegro5/allegro.h
+-
+allegro5/bitmap.h
+-
+allegro5/allegro_image.h
+-
+
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/main.cpp
+allegro5/allegro.h
+-
+allegro5/allegro_ttf.h
+-
+allegro5/allegro_primitives.h
+-
+allegro5/allegro_image.h
+-
+time.h
+-
+Gladiator.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Gladiator.h
+Tower.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Tower.h
+PathfindingA.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/PathfindingA.h
+curl/curl.h
+-
+jsoncpp/json/json.h
+-
+jsoncpp/json/reader.h
+-
+jsoncpp/json/writer.h
+-
+jsoncpp/json/value.h
+-
+SeleccionMJ.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/SeleccionMJ.h
+Botones.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/Botones.h
+IA.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/IA.h
+gladiador.h
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/gladiador.h
+

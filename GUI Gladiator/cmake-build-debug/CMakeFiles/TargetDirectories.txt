@@ -1,0 +1,3 @@
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aaronsolera/Escritorio/Yo Pue/GUI Gladiator/cmake-build-debug/CMakeFiles/Pruebas.dir
