@@ -1,0 +1,7 @@
+#ifndef PRUEBAS_GLADIATOR_H
+#define PRUEBAS_GLADIATOR_H
+
+
+
+
+#endif //PRUEBAS_GLADIATOR_H
